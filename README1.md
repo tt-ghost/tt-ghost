@@ -1,4 +1,3 @@
-### Welcome
 
 <!--
 **tt-ghost/tt-ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
