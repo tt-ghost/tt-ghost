@@ -1,4 +1,6 @@
 
+![go](https://www.manpingou.com/uploads/allimg/210709/25-210F9114434949.gif)
+
 <!--
 **tt-ghost/tt-ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
